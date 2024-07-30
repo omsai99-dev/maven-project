@@ -1,2 +1,3 @@
-Hello, Welcome to great leaders from Bangalore and Tumkur
-Hello i have done my jo of deploying the content in the site
+Hello Ram sir i have done my job 
+
+My one time deployment
